@@ -1,0 +1,12 @@
+/* #aaa{
+    background-color:plum;
+} */
+
+table{
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+th, td {
+    border: 0px solid black;
+}
